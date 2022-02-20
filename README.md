@@ -6,6 +6,16 @@ It contains 2 different programs simulating a twist of the famous Dining Philoso
 philo: multi-threads and use of mutex
 philo_bonus: multi-processes and use of semaphore
 
+# Compilation
+
+First program
+* cd philo
+* make
+
+Second program
+* cd philo_bonus
+* make
+
 # Rules
 
 • This project is to be coded in C, following the 42 Norm. Any leak, crash, undefined
